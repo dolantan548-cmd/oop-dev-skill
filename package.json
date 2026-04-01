@@ -1,1 +1,12 @@
-
+{
+  "name": "@dolantan548-cmd/oop-dev-skill",
+  "version": "0.1.0",
+  "description": "OOP面向对象语言通用，统一开发规范",
+  "author": "dolantan548-cmd",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dolantan548-cmd/oop-dev-skill.git"
+  },
+  "keywords": ["claude-code", "claude-skill", "oop"]
+}
